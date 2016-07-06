@@ -1,2 +1,2 @@
 # NewsAgency
-This is our web programming course third project.
+This is our web programming course third project :)
